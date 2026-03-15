@@ -1,5 +1,5 @@
 # CM_FAC_public
-Cours dispensé au M1 Cyber De l'EUR Cyberschool de Rennes (mars-avril 2026)
+Cours dispensé au M1 Cyber de l'EUR Cyberschool de Rennes (mars-avril 2026)
 
 ## CM
 Vous trouverez les slides du CM divisées en 3 parties sous :
