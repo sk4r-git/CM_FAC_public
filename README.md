@@ -13,9 +13,9 @@ Les CM seront dispensés le mardi :
  - 07/04 de 9h45 à 11h15
  - 14/04 de 9h45 à 11h15
 
-Vous aurez les slides imprimées, je vous conseil de prendre des notes, dessus et ailleurs (ça ne sert a rien de prendre des notes sur un ordinateur)
+Vous aurez les slides imprimées, je vous conseil de prendre des notes, dessus et ailleurs.
 Je vous conseil aussi de recoder et tester tous les exemples vu en cours, à la fois
-pour bien prendre en main gdb mais aussi pour avoir une vue plus clair de ce qu'il se passe et que tout ce cours devienne moins abstrait pour vous.
+pour bien prendre en main gdb mais aussi pour avoir une vue plus claire de ce qu'il se passe et que tout ce cours devienne moins abstrait pour vous.
 
 ## TP
 Vous trouverez les TP, aussi divisés en 3 parties sous :
@@ -31,7 +31,7 @@ Les TD seront dispensés le vendredi :
 
 Ils seront à effectuer individuellement et à remettre au plus tard le mardi matin de la semaine suivante (i.e. avant le prochain CM)
 
-Certains exercice sont notés comme facultatifs, mais je vous conseil tout de même de les faire.
+Certains exercices sont notés comme facultatifs, mais je vous conseil tout de même de les faire.
 
 Pour toute question, vous pouvez m'envoyer un MP sur discord "Sk4r (Thibaut Frin)".
 
