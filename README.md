@@ -24,7 +24,7 @@ TP/TP1_2
 TP/TP3_4
 TP/TP5_6
 
-Les TD seront dispensés le vendredi :
+Les TP seront dispensés le vendredi :
  - 03/04 de 9h45 à 13h00
  - 10/04 de 9h45 à 13h00
  - 17/04 de 9h45 à 13h00
@@ -35,4 +35,6 @@ Certains exercices sont notés comme facultatifs, mais je vous conseil tout de m
 
 Pour toute question, vous pouvez m'envoyer un MP sur discord "Sk4r (Thibaut Frin)".
 
+## PS
+N'ayez pas peur, c'est juste de la gestion de listes, si vous maîtisez gdb et que vous comprenez comment fonctionne une liste chainée, vous devriez y arriver. 
 Bon courage ;)
