@@ -5,7 +5,9 @@ Cours dispensé au M1 Cyber de l'EUR Cyberschool de Rennes (mars-avril 2026)
 Vous trouverez les slides du CM divisées en 3 parties sous :
 
 CM/PARTIE1.pdf
+
 CM/PARTIE2.pdf
+
 CM/PARTIE3.pdf
 
 Les CM seront dispensés le mardi :
@@ -21,7 +23,9 @@ pour bien prendre en main gdb mais aussi pour avoir une vue plus claire de ce qu
 Vous trouverez les TP, aussi divisés en 3 parties sous :
 
 TP/TP1_2
+
 TP/TP3_4
+
 TP/TP5_6
 
 Les TP seront dispensés le vendredi :
