@@ -33,7 +33,7 @@ Les TP seront dispensés le vendredi :
  - 10/04 de 9h45 à 13h00
  - 17/04 de 9h45 à 13h00
 
-Ils seront à effectuer individuellement et à remettre au plus tard le mardi matin de la semaine suivante (i.e. avant le prochain CM)
+Ils seront à effectuer individuellement et à remettre au plus tard le vendredi matin de la semaine suivante (i.e. avant le prochain TP)
 
 Certains exercices sont notés comme facultatifs, mais je vous conseil tout de même de les faire.
 
